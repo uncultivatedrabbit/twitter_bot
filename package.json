@@ -1,0 +1,24 @@
+{
+  "name": "affirmation_bot",
+  "version": "1.0.0",
+  "description": "twitter bot that randomly tweets affirming things",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "affirmation",
+    "compliment",
+    "twitter",
+    "bot",
+    "complibot",
+    "love",
+    "joy"
+  ],
+  "author": "Brandon Melendez",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
