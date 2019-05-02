@@ -52,20 +52,3 @@ function launchTweets(){
 
 
 
-// get request example
-
-// let params = {
-//   q: 'puppy', 
-//   count: 5,
-//   lang: 'en'
-// }
-// //  search twitter for all tweets containing the word 'banana' since July 11, 2011
-// //
-// T.get('search/tweets', params, pulledData);
-
-// function pulledData(err, data, response) {
-//   let tweets = data.statuses;
-//   for (let i = 0; i < tweets.length; i++){
-//     console.log(tweets[i].text);
-//   }
-// };
