@@ -261,7 +261,8 @@ exports.tweetStack = [
    "I bet you would survive a zombie apocalypse, even if you don't think you would. I bet you would surprise yourself with your own courage.",
    "You are the most important home that you have!!!!", 
    "Underestimating yourself is so overrated!!!",
-   "Every closed door leads to an open window"
+   "Any closed door can also lead to an open window",
+   "You got this, you got this, you got this!!!!"
    
    
   
