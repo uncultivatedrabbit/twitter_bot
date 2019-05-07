@@ -262,7 +262,36 @@ exports.tweetStack = [
    "You are the most important home that you have!!!!", 
    "Underestimating yourself is so overrated!!!",
    "Any closed door can also lead to an open window",
-   "You got this, you got this, you got this!!!!"
+   "You got this, you got this, you got this!!!!",
+   "I crunched the numbers & the results are in: You exist in many alternate dimensions and parallel universes, and they are all made brighter by your presence!",
+   "There is no reason too small to take a quick dance break!",
+   "Let your friends know how much they mean to you even if it's just something small!",
+   "Even if you don't always know it, you bring out the best in so many people",
+   "You are going to be the reason someone smiles today!!!", 
+   "Thank you for the ways you've learned to love the people around you",
+   "You are capable and deserving and strong and unabashedly loved",
+   "You are a beautiful person, even with your mistakes",
+   "Never let someone tell you your dream is impossible to reach!!!",
+   "How can you be brave today?",
+   "Today will only happen once. Be kind. Be brave. Shine & be healing presence.",
+   "Somewhere in the multiverse right now, Dory is still swimming & swimming & swimming & swimming",
+   "Friends help carry us through difficult times & if they can't carry us they will still be there to listen!!!!",
+   "You are always the strongest at the moments you feel the weakest, you can do this.",
+   "Every day is a day spent preparing you for your future",
+   "Just because you can't start over doesn't mean you can't change the ending",
+   "One nice gesture can turn someone's whole day around!!!",
+   "Honestly?????? What are you waiting for???????",
+   "People love to say there is no elevator to success, but that's only true until you build the elevator yourself", 
+   "If you can't seem to find sunshine honestly you need to just look in the mirror",
+   "Where there is a will there is a way, so find someone named Will and become their friend",
+   "Being mediocre is overrated, be sensational",
+   "So many impossible things have been accomplished by people who refused to believe they were impossible",
+   "Shouts to protons, how amazing is it that they stay positive all the time!!!",
+   "Aim for the moon, if you miss you might hit a star. If you miss the star, you're still the only person to make it far enough into outerspace to pass by a star, so congratulations!!!!",
+   ""
+
+
+
    
    
   
