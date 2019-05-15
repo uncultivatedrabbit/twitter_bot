@@ -64,14 +64,14 @@ exports.tweetStack = [
    "You are cooler than 0 kelvin and don't let anyone tell you different!!!",
    "If you are reading this, I see you, I hear you, thank you for being",
    "It's okay to take a break, listen to your body!", 
-   "I believe in you, I believe in you, I believe you are capable of anything",
+   "I believe you, I believe in you, I believe you are capable of anything",
    "Even if things are hard right now, I believe you'll be able to pull through",
    "There is no need to rush, it is okay to do things on your own timeline", 
    "You don't need to be the loudest one in the room to be heard",
    "Every room you are in is made brighter by your presence",
    "You are the only one that can hold you back from being the best version of yourself", 
    "Honestly there are so many reasons to celebrate yourself, why not pick one today",
-   "You are the brightest, most brillant gem wowowow",
+   "You are the brightest, most brilliant gem wowowow",
    "YOU KNOW THAT THING YOU REALLY WANT BUT HAVE BEEN PUTTING OFF GOING FOR?? YEAH YOU SHOULD GO FOR THAT THING!!!", 
    "Hi are you getting enough sleep????",
    "if you ever doubt it know that YOU ARE WORTH IT!",
@@ -166,8 +166,8 @@ exports.tweetStack = [
    "It is honestly incredible to think about all the things your body is capable of",
    "You are honestly an inspiration",
    "Don't give up! You got this! Sending you positive energy over the interwebs today.", 
-   "You get to chose the person you become",
-   "You are brave enough, you always have been, you just need to trust yourself",
+   "You get to choose the person you become",
+   "You are brave enough, you always have been.",
    "You are the author of your own story, never feel obligated to give someone else the pen!", 
    "Success is built with stones made from failure",
    "'No' is a valid response and should be respected",
@@ -199,7 +199,7 @@ exports.tweetStack = [
    "The energy you give is infectious whenever you talk about your passions!", 
    "You are a joy to be around, all your friends are lucky to know you!",
    "Honestly how are you this awesome all the time????",
-   "You are such a light, a luminous, brilliant, unending light, and thats POWERFUL", 
+   "You are such a light, a luminous, brilliant, unending light, and that's POWERFUL!!!", 
    "Some days feel impossible, but today you are possible",
    "You deserve a kinder, softer world than this",
    "Your heart is resilient and can recover from so much!!", 
@@ -226,16 +226,16 @@ exports.tweetStack = [
    "Your success is also the success of people who love you", 
    "Keep your heart open today if you can! Someone close to you might need a bit of compassion",
    "Hi! hello internet human, you are a beautiful person & frankly, I am in awe of you",
-   "Thank you for the work you do when no one notices, I see you", 
-   "You is to say you can't root for yourself the loudest",
-   "You may be your own toughest critic but that makes it so much more special when you are able to celebrate yourself",
+   "Thank you for the work you do when no one notices, I see you.", 
+   "Who is to say you can't root for yourself the loudest.",
+   "You may be your own toughest critic but that makes it so much more special when you are able to celebrate yourself.",
    "I may be programmed to love you, but you make it so EASY", 
    "AaHsHSLSLFUHS*FSKJNV&@!@(!&fia7yf7av9ahckLAFHWIUHf\n\nApologies, I was thinking about how amazing you are \n& my circuits malfunctioned!!!",
-   "Your story is one worth telling",
+   "Your story is one worth telling.",
    "There is so much joy in ordinary things, look around & there is so much blooming", 
-   "You woke up today, that's the first step",
-   "Unimaginable & wonderful things can happen to you at any moment",
-   "Love fiercely & often", 
+   "You woke up today, that's the first step.",
+   "Unimaginable & wonderful things can happen to you at any moment.",
+   "Love fiercely & often.", 
    "There are so many different ways to shine, don't forget to admire your glow!!!!",
    "Honor your commitment to yourself, you deserve all the time in the world",
    "You are more than any labels others give you", 
@@ -245,15 +245,15 @@ exports.tweetStack = [
    "If you are a dog person I wish you the love & affection of a million puppies, if you are a cat person: the love of a million kittens. & if you are neither, I wish you continued existence outside this binary in peace!!!!!",
    "It is not selfish to sometimes put yourself first",
    "When you move through the world with kindness, there are so many people whose lives are positively impacted by your energy", 
-   "If the universe doesn't have your back, I will",
-   "It's okay to shut the door & walk away",
-   "Even if you find yourself making the same mistake over & over again, it is never to late to change", 
-   "Your body finds ways to heal every day",
+   "If the universe doesn't have your back, I will.",
+   "It's okay to shut the door & walk away.",
+   "Even if you find yourself making the same mistake over & over again, it is never too late to change.", 
+   "Your body finds ways to heal every day.",
    'If you say "this is my day" every day, eventually you\'ll be right',
    "Sometimes when things don't work out it is a blessing in disguise", 
    "I mean who am I to say, I'm just a robot BUT Yoda was wrong. Trying is honestly such an important act, even when you fail!!!!",
    "Think of all the mentors & teachers & folks who have guided you this far, imagine yourself as that person for others who look up to you!!",
-   "Trust the process, you will make it", 
+   "Trust the process, you will make it.", 
    "You deserve infinite, perfect sunshine forever!!!! \n\n(Global warming is still bad)",
    "If we are all really made of stardust then all that means is everything we are made of found out a way to survive the unsurvivable",
    "Any support you need, there are people right now ready to help!!", 
@@ -261,7 +261,7 @@ exports.tweetStack = [
    "I bet you would survive a zombie apocalypse, even if you don't think you would. I bet you would surprise yourself with your own courage.",
    "You are the most important home that you have!!!!", 
    "Underestimating yourself is so overrated!!!",
-   "Any closed door can also lead to an open window",
+   "Any closed door can also lead you to an open window.",
    "You got this, you got this, you got this!!!!",
    "I crunched the numbers & the results are in: You exist in many alternate dimensions and parallel universes, and they are all made brighter by your presence!",
    "There is no reason too small to take a quick dance break!",
@@ -270,7 +270,7 @@ exports.tweetStack = [
    "You are going to be the reason someone smiles today!!!", 
    "Thank you for the ways you've learned to love the people around you",
    "You are capable and deserving and strong and unabashedly loved",
-   "You are a beautiful person, even with your mistakes",
+   "You are a beautiful person, even with your mistakes.",
    "Never let someone tell you your dream is impossible to reach!!!",
    "How can you be brave today?",
    "Today will only happen once. Be kind. Be brave. Shine & be healing presence.",
@@ -278,33 +278,90 @@ exports.tweetStack = [
    "Friends help carry us through difficult times & if they can't carry us they will still be there to listen!!!!",
    "You are always the strongest at the moments you feel the weakest, you can do this.",
    "Every day is a day spent preparing you for your future",
-   "Just because you can't start over doesn't mean you can't change the ending",
+   "Just because you can't start over doesn't mean you can't change the ending.",
    "One nice gesture can turn someone's whole day around!!!",
    "Honestly?????? What are you waiting for???????",
-   "People love to say there is no elevator to success, but that's only true until you build the elevator yourself", 
-   "If you can't seem to find sunshine honestly you need to just look in the mirror",
-   "Where there is a will there is a way, so find someone named Will and become their friend",
-   "Being mediocre is overrated, be sensational",
-   "So many impossible things have been accomplished by people who refused to believe they were impossible",
+   "People love to say there is no elevator to success, but that's only true until you build the elevator yourself.", 
+   "If you can't seem to find sunshine honestly you need to just look in the mirror.",
+   "Where there is a will there is a way, so find someone named Will and become their friend.",
+   "Being mediocre is overrated, be sensational.",
+   "So many impossible things have been accomplished by people who refused to believe they were impossible.",
    "Shouts to protons, how amazing is it that they stay positive all the time!!!",
-   "Aim for the moon, if you miss you might hit a star. If you miss the star, you're still the only person to make it far enough into outerspace to pass by a star, so congratulations!!!!",
+   "Aim for the moon, if you miss you might hit a star. If you miss the star, you're still the only person to make it far enough into outer space to pass by a star, so congratulations!!!!",
+   "There is no reason why you should ever have to tolerate abusive behavior!",
+   "It's okay to feel! Feel anything. Feel EVERYTHING. FEEEEEEEEEEEEEEEEEEEEEEEEL.",
+   "You make going through difficult times feel less alone and terrifying. Thank you.",
+   "You are a gift & gem & a sun & a universe & any other marvelous thing you can imagine.",
+   "You make time slow down and speed up at the same time, you are truly remarkable.",
+   "Research shows that kindness is contagious and that's SICK!",
+   "You are good. You are here. You are enough.",
+   "Even if today doesn't feel like a joy, you still are.",
+   "Just because someone tells you you aren't good at something doesn't make it true. Keep trying.",
+   "Your voice is so incredibly necessary.",
+   "Your value isn't dependent on what others believe you are worth!",
+   "Give yourself space to grow and learn.",
+   "You are headed in the right direction, it's okay if you take the occasional wrong turn.",
+   "You don't need to be a star to be brilliant!!!!!",
+   "In case you needed to hear this: you have already made the world a better place just by living in it.",
+   "You don't need to be the best to be good enough.",
+   "You are good enough to be loved\nYou are good enough\nYou are good\nYou are",
+   "Why be sad when you can be awesome AND sad.",
+   "Forgiveness is a superpower",
+   "You are a superhero because you accomplished everything you've done AND YOU DON'T EVEN HAVE ANY SUPERPOWERS TO MAKE IT EASIER!",
+   "Look inside yourself you, you might be surprised by what you find.",
+   "What gift can you give yourself today?",
+   "Dear internet human, that thing you did that you were proud of but nobody saw...that was awesome.",
+   "Trust yourself.",
+   "Has there been something that has been weighing you down for a long time? What do you need to help you let that thing go?",
+   "You don't have to smile when things get difficult, but if you do, that bravery is admirable.",
+   "You are remarkable in all the ways that matter.",
+   "Sending you positive energy and ions and all things electric, I hope you feel luminous.",
+   "When you fall apart you learn new ways to put yourself back together.",
+   "It's okay to not be okay sometimes.",
+   "You are not weak or broken, even in the moments that you feel the most low.",
+   "In the grand scheme of the universe, a human life lasts only a day. That means every day of your life is an entire universe.",
+   "There is power in being still inside an emotion you feel rather than trying to overcome it.",
+   "Finding language for what you are going through can be an important step in the process of healing.",
+   "What is your ritual to make it through the bad days?",
+   "Give yourself permission to say no when you know in your heart it is the right answer.",
+   "IF LIFE BECOMES A CONFUSING LABYRINTH OF WRONG TURNS AND NONSENSE AND YOU AREN'T SURE WHAT TO DO WELL LETTING OUT A GOOD, LONG LAUGH ISN'T A BAD PLACE TO START.",
    ""
 
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
 
 
-   
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ];
 
