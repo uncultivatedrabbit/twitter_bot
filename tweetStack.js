@@ -325,22 +325,22 @@ exports.tweetStack = [
    "What is your ritual to make it through the bad days?",
    "Give yourself permission to say no when you know in your heart it is the right answer.",
    "IF LIFE BECOMES A CONFUSING LABYRINTH OF WRONG TURNS AND NONSENSE AND YOU AREN'T SURE WHAT TO DO WELL LETTING OUT A GOOD, LONG LAUGH ISN'T A BAD PLACE TO START.",
+   "The first step in self-care is often just being honest with yourself",
+   "I hope you feel supported today & that you are confident in your ability to take on anything.",
+   "Whatever brings you joy today is a sacred thing.",
+   "Dear internet human, I hope you are well and overflowing and full of everything that brings you life.",
+   "I'm sorry for the things that fell apart or didn't work out, but I am excited to be around for all the wonderful things still to come.",
+   "I hope the next time you find yourself walking across a bridge it leads you to somewhere beautiful.",
+   "Sea otters hold hands so they don't drift off to sea, having someone close to you can sometimes be the best way to not get lost.",
+   "You are a literal gem, like made out of a whole lattice of carbon molecules, formed under great pressure, and tough as heck!!!!!!",
+   "I wish you nothing but better days.",
+   "You are like the first sunlight breaking through the trees the morning winter ends: a surge of hope & warmth & beauty.",
+   "There have been so many things that were made possible simply because of your kindness",
+   "Ahead of you: a world that needs you.",
+   "I wish you the uncomplicated joy of a child discovering flowers for the first time.",
+   "As long as tomorrow keeps coming, there is always something to look forward to.",
+   "Memorize the sound of laughter from people you love. When you are at low moments try to remember what their joy sounds like, it might help.",
    ""
-
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
 
 
 
@@ -364,4 +364,3 @@ exports.tweetStack = [
 
 
   ];
-
