@@ -11,7 +11,7 @@ const day = 86400000;
 launchTweets();
 //sets tweet interval to once a day
 let interval = setInterval(launchTweets, 5000)
-console.log(tweetIt.tweetStack.length)
+
 
 function launchTweets(){
 
@@ -22,20 +22,22 @@ function launchTweets(){
     } else {
       // randomizes the tweets
     let randomize = Math.floor(Math.random()* tweetIt.tweetStack.length);
+    // tests that the tweets on interval are working
       console.log(tweetIt.tweetStack[randomize]);
+
     let tweet = {
       status: tweetIt.tweetStack[randomize]
     }
     
-    // T.post('statuses/update', tweet, tweeted)
+    T.post('statuses/update', tweet, tweeted)
     
-    // function tweeted(err, data, response) {
-    //   if (err){
-    //     console.log(err.message)
-    //   } else {
-    //     console.log("success!")
-    //     }
-    //   };
+    function tweeted(err, data, response) {
+      if (err){
+        console.log(err.message)
+      } else {
+        console.log("success!")
+        }
+      };
     
     // deletes tweet from list after it is tweeted so there are no repeats
     tweetIt.tweetStack.splice(randomize, 1);
