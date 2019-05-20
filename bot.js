@@ -10,7 +10,7 @@ const day = 86400000;
 
 launchTweets();
 //sets tweet interval to once a day
-let interval = setInterval(launchTweets, 5000)
+let interval = setInterval(launchTweets, day)
 
 
 function launchTweets(){
