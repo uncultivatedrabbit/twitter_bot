@@ -6,18 +6,18 @@ const config = require("./config");
 const tweetIt = require("./tweetStack");
 
 const T = new Twit(config);
-// const day = 86400000;
+const day = 86400000;
 
 launchTweets();
 //sets tweet interval to once a day
-// let interval = setInterval(launchTweets, day)
+let interval = setInterval(launchTweets, day * 2)
 
 
 function launchTweets(){
 
   // checks if there are any tweets left
   if (tweetIt.tweetStack.length === 0){
-    // clearInterval(interval);
+    clearInterval(interval);
     console.log("There's nothing left to tweet");
     } else {
       // randomizes the tweets
