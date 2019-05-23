@@ -8,7 +8,7 @@ const ObjectId = require('mongodb').ObjectID;
 // mongoose.connect(dbURI, {useNewUrlParser: true});
 
 const mongodb = require('mongodb');
-let uri = 'mongodb://heroku_l1ppprhd:21s5c99a091gqho1pmkcd67rh@ds149874.mlab.com:49874/heroku_l1ppprhd';
+let uri = *******
 
 mongodb.MongoClient.connect(uri, { useNewUrlParser: true }, function(err, client){
   if (err) throw err;
