@@ -9,8 +9,10 @@ const T = new Twit(config);
 const day = 86400000;
 
 launchTweets();
-//sets tweet interval to once a day
+//sets tweet interval to one every other day
 let interval = setInterval(launchTweets, day * 2)
+
+
 
 
 function launchTweets(){
@@ -22,6 +24,7 @@ function launchTweets(){
     } else {
       // randomizes the tweets
     let randomize = Math.floor(Math.random()* tweetIt.tweetStack.length);
+    
     // tests that the tweets on interval are working
       console.log(tweetIt.tweetStack[randomize]);
 
@@ -40,6 +43,7 @@ function launchTweets(){
         console.log("success!")
         }
       };
+    console.log(tweet);
     
     // deletes tweet from list after it is tweeted so there are no repeats
     tweetIt.tweetStack.splice(randomize, 1);

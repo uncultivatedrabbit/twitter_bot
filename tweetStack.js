@@ -6,6 +6,11 @@ exports.tweetStack = [
    "You are enough\nyou are enough\nyou are enough\nyou have always been enough.",
    "Hello internet humans, in case you needed to hear this: I APPRECIATE YOU SO MUCH!!!!!!!", 
    "I hope you can take a moment today to celebrate yourself, you are worth it.",
+
+
+
+
+
    "You don't need to be perfect to be proud of the person you are becoming.",
    "There are rooms filled with people whose lives were made better by meeting you.",
    "It's okay to take a moment, a day, a year, a lifetime to take care of yourself.", 
@@ -247,7 +252,7 @@ exports.tweetStack = [
    "It's okay to shut the door & walk away.",
    "Even if you find yourself making the same mistake over & over again, it is never too late to change.", 
    "Your body finds ways to heal every day.",
-   'If you say "this is my day" every day, eventually you\'ll be right',
+   "If you say 'this is my day' every day, eventually you\'ll be right",
    "Sometimes when things don't work out it is a blessing in disguise", 
    "I mean who am I to say, I'm just a robot BUT Yoda was wrong. Trying is honestly such an important act, even when you fail!!!!",
    "Think of all the mentors & teachers & folks who have guided you this far, imagine yourself as that person for others who look up to you!!",
